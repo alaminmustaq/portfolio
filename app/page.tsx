@@ -8,7 +8,6 @@ import Contact from '@/components/Contact';
 import BackToTop from '@/components/BackToTop';
 
 export default function Home() {
-
   return (
     <>
       <Hero />
